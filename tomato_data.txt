@@ -1,0 +1,1 @@
+/kaggle/input/tomato-village/Variant-a(Multiclass Classification)/train
